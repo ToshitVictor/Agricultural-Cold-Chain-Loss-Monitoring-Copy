@@ -1,0 +1,31 @@
+batch_id,crop,risk_level,exception_count,exception_details,loss_rate_percent,delay_hours,excursion_count
+B001,Tomatoes,MEDIUM,1,Minor delivery delay,2.4761904761904763,1.0,0.0
+B002,Grapes,MEDIUM,1,Minor delivery delay,4.878048780487805,1.0,0.0
+B003,Grapes,HIGH,2,Temperature excursion detected; Major delivery delay,3.130148270181219,4.0,1.0
+B004,Tomatoes,MEDIUM,1,Minor delivery delay,2.3255813953488373,1.0,0.0
+B005,Tomatoes,MEDIUM,1,Minor delivery delay,2.803738317757009,1.0,0.0
+B006,Onions,LOW,0,,2.941176470588235,0.0,0.0
+B007,Onions,HIGH,1,Major delivery delay,3.1098825155494123,4.0,0.0
+B008,Grapes,HIGH,2,Temperature excursion detected; High recorded weight loss,5.365853658536586,0.0,1.0
+B009,Mangoes,LOW,0,,4.0913415794481445,0.0,0.0
+B010,Tomatoes,MEDIUM,1,Minor delivery delay,2.8240405503258508,1.0,0.0
+B011,Tomatoes,MEDIUM,1,Minor delivery delay,1.3377926421404682,1.0,0.0
+B012,Onions,LOW,0,,1.8729096989966554,0.0,0.0
+B013,Mangoes,MEDIUM,1,Minor delivery delay,2.303523035230352,1.0,0.0
+B014,Mangoes,HIGH,2,Temperature excursion detected; Major delivery delay,3.7440435670524166,5.0,1.0
+B015,Mangoes,MEDIUM,1,Minor delivery delay,3.965702036441586,1.0,0.0
+B016,Tomatoes,LOW,0,,3.187250996015936,0.0,0.0
+B017,Onions,HIGH,2,High recorded weight loss; Minor delivery delay,5.944055944055944,1.0,0.0
+B018,Apples,LOW,0,,1.2968299711815563,0.0,0.0
+B019,Tomatoes,HIGH,1,Major delivery delay,4.907161803713528,2.0,0.0
+B020,Tomatoes,HIGH,2,High recorded weight loss; Minor delivery delay,9.074410163339383,1.0,0.0
+B021,Tomatoes,HIGH,3,Temperature excursion detected; High recorded weight loss; Minor delivery delay,9.580838323353294,1.0,1.0
+B022,Grapes,LOW,0,,0.4694835680751174,0.0,0.0
+B023,Grapes,LOW,0,,1.7543859649122806,0.0,0.0
+B024,Mangoes,MEDIUM,1,Minor delivery delay,4.057971014492753,1.0,0.0
+B025,Tomatoes,HIGH,1,Major delivery delay,3.7151702786377707,2.0,0.0
+B026,Grapes,MEDIUM,1,Minor delivery delay,2.7426160337552745,1.0,0.0
+B027,Tomatoes,MEDIUM,1,Minor delivery delay,2.6931254429482636,1.0,0.0
+B028,Tomatoes,HIGH,2,High recorded weight loss; Packing quantity inconsistency,7.4074074074074066,0.0,0.0
+B029,Mangoes,HIGH,1,Missing delivery record,,0.0,0.0
+B030,Onions,MEDIUM,2,Missing temperature readings; Minor delivery delay,1.9473081328751431,1.0,
